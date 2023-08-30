@@ -1,4 +1,7 @@
-# This code demonstrates the use of protected attributes in a class
+"""
+This code defines an Animal class with methods to access and change an animal's species, 
+demonstrating how protected attributes and methods can be used to interact with them in a controlled manner
+"""
 class Animal:
     def __init__(self, nombre: str, especie: str):
         self.nombre = nombre
