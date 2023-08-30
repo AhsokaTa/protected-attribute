@@ -1,3 +1,7 @@
+"""
+This code defines an Animal class with methods to access and change an animal's species, 
+demonstrating how protected attributes and methods can be used to interact with them in a controlled manner
+"""
 class Animal:
     """
     This class represents an animal with a name and species
